@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x74c4570dd0ea0f013a69428fd6880a1a56335ddb",
+  "SCAN_LINK": "https://polygonscan.com/address/0x74c4570dd0ea0f013a69428fd6880a1a56335ddb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+    
+  },
+  "NFT_NAME": "GGamer NFT Paola",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY": 3100,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.00001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/altf4-",
+  "SHOW_BACKGROUND": true
+}
